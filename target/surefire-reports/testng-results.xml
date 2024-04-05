@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T11:14:01 IST" name="Suite" finished-at="2024-04-04T11:16:13 IST" duration-ms="131634">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T11:14:01 IST" name="Test" finished-at="2024-04-04T11:16:13 IST" duration-ms="131634">
+      <class name="testcases.myFirstTestCasesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:14:08 IST" name="setup" finished-at="2024-04-04T11:14:24 IST" duration-ms="15640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:14:24 IST" name="login" data-provider="bdd" finished-at="2024-04-04T11:14:52 IST" duration-ms="27938" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aa@aa.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:14:52 IST" name="tearDown" finished-at="2024-04-04T11:14:52 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:14:52 IST" name="setup" finished-at="2024-04-04T11:15:02 IST" duration-ms="9592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:15:02 IST" name="login" data-provider="bdd" finished-at="2024-04-04T11:15:30 IST" duration-ms="28110" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bb@bb.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bkk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:15:30 IST" name="tearDown" finished-at="2024-04-04T11:15:30 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:15:30 IST" name="setup" finished-at="2024-04-04T11:15:44 IST" duration-ms="14283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:15:44 IST" name="login" data-provider="bdd" finished-at="2024-04-04T11:16:12 IST" duration-ms="28126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jpthekaul@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dochangeme1!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.myFirstTestCasesTest@399f45b1]" started-at="2024-04-04T11:16:12 IST" name="tearDown" finished-at="2024-04-04T11:16:13 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.myFirstTestCasesTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
